@@ -20,7 +20,7 @@
 ---
 
 ### :man: About Me :
-I am a Front-end Developer from Thailand 🇹🇭:
+I am a Front-end Developer from Thailand :TH:
 
 ---
 
