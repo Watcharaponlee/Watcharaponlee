@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Watcharaponlee&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Watcharaponlee&style=flat-square&color=blue" align="center" alt=""/ >
 
 - 👋 Hi, I’m @Watcharaponlee
 - 👀 I’m interested in ...
