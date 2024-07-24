@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uB86ZyWQsnFSGYe2sA" width="100"/>
+</div>
+
 - 👋 Hi, I’m @Watcharaponlee
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
