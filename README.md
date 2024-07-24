@@ -20,7 +20,7 @@
 ---
 
 ### :man: About Me :
-I am a Front-end Developer from Thailand thailand:
+I am a Front-end Developer from Thailand 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
