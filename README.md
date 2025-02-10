@@ -18,7 +18,7 @@
 </h1>
 
 ### :man: About Me :
-I am a Web Developer from Thailand 
+I am Front-end Developer from Thailand 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
